@@ -1,0 +1,1 @@
+<view><view class="font">挂号成功</view><button data-event-opts="{{[['tap',[['backButton']]]]}}" class="button" bindtap="__e">确认</button></view>

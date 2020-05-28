@@ -1,0 +1,1 @@
+<view class="page-backgroud _div"><image class="mp-background" src="/static/no-data.jpg" no-repeat="{{true}}"></image><text class="text-positon">{{"暂无"+message+"数据"}}</text></view>
