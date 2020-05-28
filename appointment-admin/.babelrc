@@ -1,0 +1,7 @@
+{
+  "compact": false,
+  "presets": [
+    ["env", { "modules": false }],
+    "stage-3"
+  ]
+}
